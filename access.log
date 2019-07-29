@@ -1,0 +1,8 @@
+::1 - - [29/Jul/2019:12:01:27 +0000] "GET / HTTP/1.1" 200 - "http://localhost:5000/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:01:36 +0000] "GET / HTTP/1.1" 200 - "http://localhost:5000/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:02:38 +0000] "GET /login HTTP/1.1" 200 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:03:02 +0000] "POST /login HTTP/1.1" 302 46 "http://localhost:5000/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:03:04 +0000] "GET / HTTP/1.1" 200 - "http://localhost:5000/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:03:16 +0000] "GET /admin/add-product HTTP/1.1" 200 - "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:03:39 +0000] "POST /admin/add-product HTTP/1.1" 302 74 "http://localhost:5000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+::1 - - [29/Jul/2019:12:03:40 +0000] "GET /admin/products HTTP/1.1" 200 - "http://localhost:5000/admin/add-product" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"

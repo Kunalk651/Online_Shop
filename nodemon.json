@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "E_Shop",
+    "MONGO_PASSWORD": "my@eshop",
+    "MONGO_DEFAULT_DATABASE": "shop",
+    "STRIPE_KEY": "sk_test_omorva3J90EIHlORep29iVsv00WLeRV0yY"
+  }
+}
